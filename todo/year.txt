@@ -1,0 +1,8 @@
+Name: Bob, Birth year: 1993
+Name: John, Birth year: 1984
+Name: William, Birth year: 1974
+Name: Andry, Birth year: 2005
+Name: Sam, Birth year: 1981
+Name: Jony, Birth year: 1958
+Name: Jordan, Birth year: 2000
+Name: Nikita, Birth year: 1988
